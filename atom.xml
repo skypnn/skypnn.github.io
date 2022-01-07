@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://skypnn.github.io/www.cbu.cc/</id>
+    <id>https://skypnn.github.io</id>
     <title>初步博客</title>
-    <updated>2022-01-07T09:24:37.044Z</updated>
+    <updated>2022-01-07T09:35:17.319Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://skypnn.github.io/www.cbu.cc/"/>
-    <link rel="self" href="https://skypnn.github.io/www.cbu.cc/atom.xml"/>
+    <link rel="alternate" href="https://skypnn.github.io"/>
+    <link rel="self" href="https://skypnn.github.io/atom.xml"/>
     <subtitle>一切还是最初的样子</subtitle>
-    <logo>https://skypnn.github.io/www.cbu.cc/images/avatar.png</logo>
-    <icon>https://skypnn.github.io/www.cbu.cc/favicon.ico</icon>
+    <logo>https://skypnn.github.io/images/avatar.png</logo>
+    <icon>https://skypnn.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 初步博客</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://skypnn.github.io/www.cbu.cc/post/hello-gridea/</id>
-        <link href="https://skypnn.github.io/www.cbu.cc/post/hello-gridea/">
+        <id>https://skypnn.github.io/post/hello-gridea/</id>
+        <link href="https://skypnn.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
